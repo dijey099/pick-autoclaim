@@ -1,0 +1,14 @@
+# Platform info
+DOMAIN=tronpick.io
+MAIL=user@gmail.com
+PASSWORD=mypassword
+USERNAME=myusername
+
+# 2Captcha API Key
+API_KEY=my_API_KEY
+
+# Tronpick
+SITE_KEY=6LeBFBclAAAAANoZIrwXU1cPgYDDM7f1ehHpzXWj
+
+# Litepick
+#SITE_KEY=6LdF080aAAAAAAGrGLP6tj70rOwRMPMM0ZU021u5
