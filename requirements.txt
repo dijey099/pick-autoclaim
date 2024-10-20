@@ -1,0 +1,5 @@
+tqdm
+termcolor
+python-dotenv
+2captcha-python
+selenium==4.9.1
