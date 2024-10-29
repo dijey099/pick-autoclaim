@@ -54,7 +54,7 @@
 	```
 
 4. Edit environment file
-	- Open `.env` in nano text editor
+	- Open `config` in nano text editor
 	```
 	nano config
 	```
@@ -147,7 +147,7 @@
 	API_KEY=<2captcha API KEY>
 	```
 
-	- Close nano by clicking on `CTRL` and then `X`, hit `Y` for Yes to save file, keep the name `.env` and hit **Enter**
+	- Close nano by clicking on `CTRL` and then `X`, hit `Y` for Yes to save file, keep the name `config` and hit **Enter**
 
 13. Run tool
 	```
